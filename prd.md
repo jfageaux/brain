@@ -106,6 +106,7 @@ brain/                                 # Your Personal Learning Universe
 - **Study Timer**: Pomodoro technique implementation with progress tracking
 - **Note Converter**: Transform handwritten notes to markdown format
 - **Progress Tracker**: Simple CLI tool to log daily learning activities
+- **Codebase Size CLI**: Measure repository disk usage, breakdown by type, largest files
 
 #### Cross-Subject Starter Projects  
 - **Chinese Character Counter**: Count and analyze characters in Chinese text files
@@ -198,7 +199,7 @@ brain/                                 # Your Personal Learning Universe
 
 | Project | Subject(s) | Status | Lines of Code | Started | Last Update |
 |---------|------------|---------|---------------|---------|-------------|
-| _No active projects yet_ | - | - | - | - | - |
+| Codebase Size CLI | Python | Active | ~300 | 2025-08-21 | 2025-08-21 |
 
 #### Completed Projects
 **Archive finished projects here**

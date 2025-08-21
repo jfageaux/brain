@@ -77,6 +77,7 @@ Pick the subject that excites you most:
 3. **Simple Calculator** (Coding): Build basic programming logic
 4. **Daily Reflection Tool** (Philosophy): Generate structured thinking prompts
 5. **Chinese Word Counter** (Chinese): Count characters in text files
+6. **Codebase Size CLI** (Python): Measure your repository's disk usage and largest files
 
 ### 🟡 Intermediate Projects (After 2-3 weeks)
 1. **Chinese Flashcard App** (Chinese + Python): Interactive CLI vocabulary trainer
@@ -137,6 +138,11 @@ Pick the subject that excites you most:
    git commit -m "Initial setup: Personal learning environment scaffolded"
    ```
 3. **Choose Your Track**: Pick one of the 4 tracks above based on your interest
+4. **Run Your First CLI**: From repo root, try the Codebase Size tool
+   ```powershell
+   python subjects\python\projects\codebase_size_cli\codebase_size.py --by-ext --top 10
+   ```
+   - Expect a total size summary, a breakdown by extension, and the top 10 largest files.
 
 ### This Week
 1. **Complete Git Basics**: Work through `subjects/git/exercises/01_first_commit.md`

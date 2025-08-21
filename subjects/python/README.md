@@ -136,6 +136,7 @@ Choose one that excites you most:
 3. **Text Adventure Game**: Master control flow and user input handling
 4. **Todo List Manager**: Understand data structures and CRUD operations
 5. **Weather Report Script**: Introduction to APIs and JSON processing
+6. **Codebase Size CLI**: Measure repository disk usage and largest files
 
 ### 🟡 Intermediate Projects (Week 3-4)
 1. **Flashcard Application**: Object-oriented design with spaced repetition algorithms

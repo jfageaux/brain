@@ -70,6 +70,7 @@ This roadmap provides a structured, yet flexible path through your personal lear
   - Philosophy: Logical argument structure analyzer
   - AI: Simple rule-based decision system
   - Python: Personal file organizer with learning insights
+  - Python: Codebase Size CLI to measure repository disk usage and largest files
 
 #### Week 1 Success Criteria
 - [ ] Git repository initialized with meaningful commit history
