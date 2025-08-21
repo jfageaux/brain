@@ -79,18 +79,18 @@ brain/                                 # Your Personal Learning Universe
 - **Week 6-7**: Natural language processing for Chinese text
 - **Week 8**: Advanced language learning tools with AI integration
 
-#### Track D: Philosophy + Technology Ethics
-- **Week 2-3**: Logical reasoning, argument structure, critical thinking
-- **Week 4-5**: Ethics in technology, AI bias, privacy considerations  
-- **Week 6-7**: Building tools for argument analysis and ethical decision-making
-- **Week 8**: Applying philosophical frameworks to technology projects
+#### Track D: Philosophy (General)
+- **Week 2-3**: Logic and argumentation, fallacies, critical thinking
+- **Week 4-5**: Ethics and political philosophy; applied case studies  
+- **Week 6-7**: Epistemology and philosophy of mind; writing and mini-tools
+- **Week 8**: Applying philosophical frameworks to real problems (tech or non-tech)
 
 ### 🌐 Phase 3: Integration & Specialization (Weeks 8+)
 **Objective**: Combine subjects and build sophisticated projects
 
 #### Cross-Subject Project Categories
 1. **AI + Language Learning**: Intelligent tutoring systems, adaptive learning platforms
-2. **Philosophy + Programming**: Ethical frameworks for code, bias detection tools
+2. **Philosophy + Programming**: Ethical frameworks for code, ethical code review and policy checklists
 3. **Chinese + Technology**: Multilingual applications, cultural context in software
 4. **Automation + Learning**: Personal productivity systems, learning analytics
 
@@ -239,7 +239,7 @@ _To be filled as you progress..._
 | Integration | Projects Completed | Complexity Level | Next Steps |
 |-------------|-------------------|------------------|------------|
 | **Python + Chinese** | 0 | - | Build flashcard app |
-| **AI + Philosophy** | 0 | - | Create ethics analyzer |
+| **Philosophy + Programming** | 0 | - | Create ethics analyzer |
 | **Git + All Subjects** | 0 | - | Version control all projects |
 | **Documentation + All** | 0 | - | Comment-driven development |
 

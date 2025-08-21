@@ -27,12 +27,12 @@ What's your gut reaction or first impression?
 ## Personal Analysis
 - Which arguments seem most compelling and why?
 - What questions remain unanswered?
-- How does this connect to your other studies (coding, AI, etc.)?
+- How does this connect to your other studies or projects?
 
 ## Practical Applications
 How can you apply this philosophical thinking to:
-- Your coding projects?
-- AI ethics considerations?
+- Your projects or studies?
+- Ethical considerations in technology or society?
 - Daily decision making?
 
 ## Next Steps

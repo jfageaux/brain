@@ -24,10 +24,42 @@ This roadmap provides a structured, yet flexible path through your personal lear
 - **Project**: Version control this entire learning environment
 
 #### Wednesday-Thursday: Development Environment
-- **Morning (1 hour)**: Install Python, configure virtual environments
+- **Morning (1 hour)**: Install Python, set up virtual environments:
+  # Virtual Environment Setup
+  - Install virtualenv: `pip install virtualenv` 
+    # virtualenv is a tool to create isolated Python environments
+    # this keeps project dependencies separate and avoids conflicts
+  
+  - Create project-specific environments with `virtualenv venv`
+    # 'venv' is the standard name for virtual environment directories
+    # this creates a new directory with a fresh Python installation
+    # activate with 'source venv/bin/activate' on Unix or 'venv\Scripts\activate' on Windows
+  
+  - Learn conda for data science/ML projects
+    # conda is a package/environment management system, not a protocol
+    # it's an application that helps install and manage packages
+    # created by Anaconda Inc. specifically for data science
+    # handles both Python and non-Python package dependencies
+    # includes its own package repository called conda-forge
+    # conda is preferred for data science because it manages non-Python dependencies
+    # handles complex packages like numpy, scipy, tensorflow more reliably
+    # provides pre-built binaries optimized for scientific computing
+  
+  - Understand when to use each:
+    # virtualenv:
+    #   - Simple Python web apps and scripts
+    #   - When you only need pure Python packages
+    #   - Lighter weight, faster to create
+    # conda:
+    #   - Data science and machine learning
+    #   - Projects needing C/Fortran dependencies
+    #   - When you need specific versions of Python packages
 - **Afternoon (45 min)**: Set up code formatting tools (Black, pylint)
 - **Evening (30 min)**: Configure Cursor IDE for optimal Python development
-- **Project**: Create standardized development environment setup script
+- **Project**: Create standardized development environment setup script that:
+  - Automates virtualenv creation for new Python projects
+  - Configures conda environments for data/ML work
+  - Documents virtual environment best practices
 
 #### Friday-Sunday: First Cross-Subject Project
 - **Choose Your Interest**: Pick the subject that excites you most
@@ -66,11 +98,11 @@ This roadmap provides a structured, yet flexible path through your personal lear
 - **Day 5-7**: Create flashcard system with spaced repetition algorithm
 - **Milestone**: Functional Chinese learning tool you actually use
 
-#### Track D: Philosophy + Technology Ethics
-- **Day 1-2**: Logic programming and argument analysis tools
-- **Day 3-4**: Ethical frameworks applied to technology decisions
-- **Day 5-7**: Build tool for analyzing bias in algorithms or data
-- **Milestone**: Framework for ethical decision-making in your projects
+#### Track D: Philosophy (General)
+- **Day 1-2**: Logic and argumentation fundamentals; fallacies and validity
+- **Day 3-4**: Ethics and political philosophy; moral reasoning with case studies
+- **Day 5-7**: Epistemology and philosophy of mind; reflection writing or mini-tool
+- **Milestone**: Well-argued essay or small reasoning tool applying multiple frameworks
 
 #### Week 2 Success Criteria
 - [ ] Deep competency in chosen track with 3+ projects
@@ -84,7 +116,7 @@ This roadmap provides a structured, yet flexible path through your personal lear
 #### Common Integration Patterns
 1. **Python + AI**: Build machine learning tools with extensive explanation
 2. **Python + Chinese**: Create language learning applications
-3. **AI + Philosophy**: Develop ethical AI decision-making systems
+3. **Philosophy + Technology Ethics**: Apply ethical frameworks to technology decisions
 4. **Chinese + Philosophy**: Analyze philosophical texts in original language
 5. **Git + All**: Advanced version control for complex projects
 
@@ -94,10 +126,10 @@ This roadmap provides a structured, yet flexible path through your personal lear
    - Chinese character recognition and input
    - Smart difficulty adjustment based on performance
 
-2. **Code Ethics Analyzer** (AI + Philosophy + Python)
+2. **Code Ethics Analyzer** (Philosophy + Python)
    - Analyze code for potential ethical issues
    - Apply philosophical frameworks to programming decisions
-   - Machine learning to detect bias in algorithms
+   - Assess fairness and bias with explicit criteria (no ML required)
 
 3. **Learning Analytics Dashboard** (Python + AI + All Subjects)
    - Analyze Git commit patterns for learning insights
@@ -164,7 +196,7 @@ This roadmap provides a structured, yet flexible path through your personal lear
 **Philosophy Advanced Projects (200-400 lines)**
 - **Automated Ethical Impact Assessment**: Analyze technology projects for ethical implications
 - **Philosophical Argument Mining**: Extract and analyze arguments from texts
-- **Socratic Dialogue System**: AI that asks probing questions to deepen understanding
+- **Socratic Dialogue Toolkit**: Structured prompts and branching dialogues to deepen understanding
 
 #### Weeks 5-6 Success Criteria
 - [ ] One sophisticated project in primary area completed
