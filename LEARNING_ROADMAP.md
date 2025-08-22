@@ -105,6 +105,24 @@ This roadmap provides a structured, yet flexible path through your personal lear
 - **Day 5-7**: Epistemology and philosophy of mind; reflection writing or mini-tool
 - **Milestone**: Well-argued essay or small reasoning tool applying multiple frameworks
 
+#### Track E: Ethical Hacking & Cybersecurity
+- **Day 1-2**: Security fundamentals and legal/ethical framework; personal security audit
+- **Day 3-4**: Network security and reconnaissance (on authorized targets only)
+- **Day 5-7**: Web application security; vulnerability assessment on controlled environments
+- **Milestone**: Comprehensive security assessment of personal systems with documented findings
+
+#### Track F: Psychology & Human Behavior
+- **Day 1-2**: Psychological science foundations; cognitive psychology and research methods
+- **Day 3-4**: Learning science and memory; human-computer interaction principles
+- **Day 5-7**: Social psychology and user experience; team dynamics and motivation
+- **Milestone**: User research tool or psychological assessment application
+
+#### Track G: Logic & Formal Reasoning
+- **Day 1-2**: Propositional logic and truth tables; boolean reasoning foundations
+- **Day 3-4**: Predicate logic and quantification; first-order logic systems
+- **Day 5-7**: Proof theory and formal verification; natural deduction and inference rules
+- **Milestone**: Theorem prover or formal verification tool for simple programs
+
 #### Week 2 Success Criteria
 - [ ] Deep competency in chosen track with 3+ projects
 - [ ] All code extensively documented with learning insights
@@ -120,6 +138,12 @@ This roadmap provides a structured, yet flexible path through your personal lear
 3. **Philosophy + Technology Ethics**: Apply ethical frameworks to technology decisions
 4. **Chinese + Philosophy**: Analyze philosophical texts in original language
 5. **Git + All**: Advanced version control for complex projects
+6. **Ethical Hacking + Programming**: Secure coding practices and vulnerability analysis
+7. **Psychology + UX Design**: User-centered design informed by psychological research
+8. **Logic + Programming**: Formal verification and theorem proving for code correctness
+9. **Psychology + AI**: Understanding human behavior for better AI design
+10. **Ethical Hacking + Philosophy**: Applied ethics in cybersecurity and responsible disclosure
+11. **Logic + AI**: Formal reasoning systems and automated theorem proving
 
 #### Week 3 Project Options (Choose 1)
 1. **Multilingual Flashcard System** (Python + Chinese + AI)
@@ -136,6 +160,21 @@ This roadmap provides a structured, yet flexible path through your personal lear
    - Analyze Git commit patterns for learning insights
    - Visualize progress across all subjects
    - Predictive models for learning optimization
+
+4. **Secure Learning Platform** (Ethical Hacking + Python + Psychology)
+   - Build educational platform with robust security controls
+   - Apply psychological principles to user engagement
+   - Implement security best practices throughout development
+
+5. **Formal Program Verification Tool** (Logic + Python + AI)
+   - Automated theorem proving for code correctness
+   - AI-assisted proof generation and verification
+   - Logical specification of program properties
+
+6. **Cognitive Security Trainer** (Psychology + Ethical Hacking + Philosophy)
+   - Training tool for recognizing social engineering attacks
+   - Apply psychological research on decision-making and biases
+   - Ethical framework for responsible security education
 
 #### Week 3 Success Criteria
 - [ ] Successfully integrated 2 subjects in meaningful project
@@ -199,6 +238,21 @@ This roadmap provides a structured, yet flexible path through your personal lear
 - **Philosophical Argument Mining**: Extract and analyze arguments from texts
 - **Socratic Dialogue Toolkit**: Structured prompts and branching dialogues to deepen understanding
 
+**Ethical Hacking Advanced Projects (300-600 lines)**
+- **Security Assessment Framework**: Automated vulnerability scanning and reporting system
+- **Secure Code Review Tool**: Static analysis for security vulnerabilities in source code
+- **Educational Penetration Testing Platform**: Safe environment for learning ethical hacking
+
+**Psychology Advanced Projects (250-500 lines)**
+- **User Behavior Analytics Suite**: Comprehensive analysis of human-computer interaction patterns
+- **Cognitive Load Assessment Tool**: Measure and optimize mental effort in user interfaces
+- **Team Dynamics Optimizer**: Psychology-informed collaboration and productivity tools
+
+**Logic Advanced Projects (200-450 lines)**
+- **Automated Theorem Prover**: Advanced reasoning system with multiple proof strategies
+- **Formal Specification Checker**: Verify software against logical specifications
+- **Logic Programming Environment**: Interactive system for logical problem solving
+
 #### Weeks 5-6 Success Criteria
 - [ ] One sophisticated project in primary area completed
 - [ ] Professional-level code quality and architecture
@@ -233,6 +287,18 @@ This roadmap provides a structured, yet flexible path through your personal lear
    - AI analysis of project complexity and learning potential
    - Ethical frameworks for responsible open source contribution
    - International perspective supporting Chinese and English projects
+
+5. **Comprehensive Security & Privacy Platform** (Ethical Hacking + Psychology + Philosophy + AI)
+   - Multi-layered security assessment and education system
+   - Psychological analysis of security behaviors and decision-making
+   - Ethical frameworks for responsible security research and disclosure
+   - AI-powered threat detection with explainable reasoning
+
+6. **Formal Software Verification Suite** (Logic + Programming + AI + Philosophy)
+   - Automated theorem proving for software correctness
+   - AI-assisted proof generation and verification
+   - Philosophical analysis of formal methods and software reliability
+   - Educational tools for teaching formal verification concepts
 
 #### Weeks 7-8 Success Criteria
 - [ ] Major capstone project demonstrating integration mastery
@@ -309,6 +375,21 @@ This roadmap provides a structured, yet flexible path through your personal lear
 - **Weeks 13-16**: Advanced ethics and technology policy
 - **Weeks 17-20**: Original research in AI ethics or technology philosophy
 - **Weeks 21-24**: Policy recommendations or ethical frameworks
+
+#### 5. Cybersecurity & Ethical Hacking Track
+- **Weeks 13-16**: Advanced penetration testing and security research
+- **Weeks 17-20**: Security tool development and vulnerability research
+- **Weeks 21-24**: Contribution to cybersecurity community and responsible disclosure
+
+#### 6. Cognitive Science & Psychology Track
+- **Weeks 13-16**: Advanced research methods and experimental psychology
+- **Weeks 17-20**: Human-computer interaction and user experience research
+- **Weeks 21-24**: Original research in technology psychology or applied cognitive science
+
+#### 7. Formal Methods & Logic Track
+- **Weeks 13-16**: Advanced theorem proving and formal verification
+- **Weeks 17-20**: Logic programming and automated reasoning research
+- **Weeks 21-24**: Contribution to formal methods community and tool development
 
 ---
 
@@ -391,6 +472,9 @@ This roadmap provides a structured, yet flexible path through your personal lear
 - **AI/ML Libraries**: scikit-learn, pandas, matplotlib, jupyter
 - **Chinese Tools**: Input methods, dictionaries, text processing libraries
 - **Philosophy Resources**: Logic libraries, argument analysis tools
+- **Security Tools**: Nmap, Wireshark, Python security libraries (scapy, paramiko)
+- **Psychology Tools**: PsychoPy, statistical analysis libraries, survey tools
+- **Logic Tools**: Theorem provers (Z3, Lean), SAT solvers, proof assistants
 
 ### Phase 3 Tools (Mastery)
 - **Specialized Libraries**: Domain-specific tools for your chosen specialization

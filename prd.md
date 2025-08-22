@@ -29,6 +29,9 @@ brain/                                 # Your Personal Learning Universe
     ├── ai/                          # Machine learning & AI development
     ├── chinese/                     # Language learning through code
     ├── philosophy/                  # Critical thinking & ethical reasoning
+    ├── ethical_hacking/             # Cybersecurity & ethical hacking
+    ├── psychology/                  # Human behavior & cognitive science
+    ├── logic/                       # Formal reasoning & mathematical logic
     └── projects/                    # Cross-disciplinary integration projects
 ```
 
@@ -85,6 +88,24 @@ brain/                                 # Your Personal Learning Universe
 - **Week 6-7**: Epistemology and philosophy of mind; writing and mini-tools
 - **Week 8**: Applying philosophical frameworks to real problems (tech or non-tech)
 
+#### Track E: Ethical Hacking & Cybersecurity
+- **Week 2-3**: Security fundamentals, legal frameworks, ethical guidelines
+- **Week 4-5**: Network security, reconnaissance (authorized targets only)
+- **Week 6-7**: Web application security, vulnerability assessment
+- **Week 8**: Advanced security topics and responsible disclosure practices
+
+#### Track F: Psychology & Human Behavior
+- **Week 2-3**: Psychological science foundations, cognitive psychology
+- **Week 4-5**: Learning science, memory, human-computer interaction
+- **Week 6-7**: Social psychology, user experience, team dynamics
+- **Week 8**: Applied psychology in technology and research methods
+
+#### Track G: Logic & Formal Reasoning
+- **Week 2-3**: Propositional logic, truth tables, boolean reasoning
+- **Week 4-5**: Predicate logic, quantification, first-order logic
+- **Week 6-7**: Proof theory, natural deduction, formal verification
+- **Week 8**: Advanced logical systems and automated reasoning
+
 ### 🌐 Phase 3: Integration & Specialization (Weeks 8+)
 **Objective**: Combine subjects and build sophisticated projects
 
@@ -93,6 +114,9 @@ brain/                                 # Your Personal Learning Universe
 2. **Philosophy + Programming**: Ethical frameworks for code, ethical code review and policy checklists
 3. **Chinese + Technology**: Multilingual applications, cultural context in software
 4. **Automation + Learning**: Personal productivity systems, learning analytics
+5. **Security + Programming**: Secure coding practices, vulnerability analysis tools
+6. **Psychology + Technology**: User experience design, cognitive load optimization
+7. **Logic + Programming**: Formal verification, automated reasoning systems
 
 ---
 
@@ -113,6 +137,9 @@ brain/                                 # Your Personal Learning Universe
 - **Philosophy Quote Generator**: Random quote display with reflection prompts
 - **Git Commit Message Generator**: AI-assisted commit message suggestions
 - **Learning Schedule Optimizer**: Basic algorithm to optimize study schedules
+- **Personal Security Checker**: Assess security of personal devices and accounts
+- **Memory Training Game**: Simple cognitive assessment and training tool
+- **Logic Puzzle Solver**: Automated reasoning for simple logical problems
 
 ### 🟡 Intermediate Projects (200-1000 lines of code)
 **Purpose**: Demonstrate subject mastery and integration skills
@@ -122,6 +149,9 @@ brain/                                 # Your Personal Learning Universe
 - **Code Ethics Analyzer**: Philosophy + AI + Programming for ethical code review
 - **Learning Analytics Dashboard**: Python + All subjects for progress visualization
 - **Philosophical Argument Mapper**: Philosophy + Coding for logic visualization
+- **Security Assessment Framework**: Ethical Hacking + Python for vulnerability scanning
+- **User Behavior Analytics Suite**: Psychology + Programming for interaction analysis
+- **Automated Theorem Prover**: Logic + Programming for formal reasoning
 
 ### 🔴 Advanced Projects (1000+ lines of code)
 **Purpose**: Showcase professional-level skills and deep integration
@@ -131,6 +161,9 @@ brain/                                 # Your Personal Learning Universe
 - **Ethical AI Framework**: Comprehensive system for developing responsible AI applications
 - **Cross-Cultural Communication Tool**: Chinese + AI + Philosophy for nuanced translation
 - **Open Source Educational Platform**: Full-stack application for peer-to-peer learning
+- **Comprehensive Security & Privacy Platform**: Ethical Hacking + Psychology + Philosophy for responsible security education
+- **Cognitive Computing Interface**: Psychology + AI + Logic for human-optimized computing
+- **Formal Software Verification Suite**: Logic + Programming + AI for automated correctness proofs
 
 ---
 

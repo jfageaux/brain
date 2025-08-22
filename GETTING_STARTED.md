@@ -16,6 +16,9 @@ brain/
     ├── ai/                   # Artificial intelligence & machine learning
     ├── chinese/              # Chinese language learning
     ├── philosophy/           # Philosophical exploration & critical thinking
+    ├── ethical_hacking/      # Cybersecurity & ethical hacking
+    ├── psychology/           # Human behavior & cognitive science
+    ├── logic/                # Formal reasoning & mathematical logic
     └── projects/             # Cross-disciplinary integration projects
 ```
 
@@ -64,6 +67,21 @@ Pick the subject that excites you most:
 - Create reflection generators
 - Apply logical thinking to code structure
 
+**🔐 Ethical Hacking Track** (Security + Programming)
+- Learn cybersecurity fundamentals and ethical frameworks
+- Build security assessment tools for personal systems
+- Practice on controlled environments and educational platforms
+
+**🧠 Psychology Track** (Human behavior + Technology)
+- Understand cognitive science and user experience principles
+- Build tools for analyzing human-computer interaction
+- Apply psychological principles to technology design
+
+**🧮 Logic Track** (Formal reasoning + Programming)
+- Master propositional and predicate logic systems
+- Build theorem provers and logical reasoning tools
+- Apply formal methods to program verification
+
 ### Phase 3: Integration (Week 4+)
 - Start cross-subject projects in `subjects/projects/`
 - Build tools that combine multiple interests
@@ -78,6 +96,9 @@ Pick the subject that excites you most:
 4. **Daily Reflection Tool** (Philosophy): Generate structured thinking prompts
 5. **Chinese Word Counter** (Chinese): Count characters in text files
 6. **Codebase Size CLI** (Python): Measure your repository's disk usage and largest files
+7. **Personal Security Audit** (Ethical Hacking): Assess security of your own devices
+8. **Simple Memory Game** (Psychology): Build tool to test cognitive abilities
+9. **Truth Table Generator** (Logic): Visualize boolean logic operations
 
 ### 🟡 Intermediate Projects (After 2-3 weeks)
 1. **Chinese Flashcard App** (Chinese + Python): Interactive CLI vocabulary trainer
@@ -85,12 +106,18 @@ Pick the subject that excites you most:
 3. **Code Comment Generator** (AI + Coding): AI tool that explains your code
 4. **Philosophy Argument Mapper** (Philosophy + Coding): Visualize logical structures
 5. **Learning Progress Dashboard** (Python + All subjects): Track your growth
+6. **Security Scanner Tool** (Ethical Hacking + Python): Automated vulnerability assessment
+7. **User Behavior Analyzer** (Psychology + Programming): Track and analyze interaction patterns
+8. **Simple Theorem Prover** (Logic + Programming): Automated logical reasoning system
 
 ### 🔴 Advanced Integration Projects (After 1+ months)
 1. **Multilingual AI Tutor** (AI + Chinese + Python): Personalized language learning assistant
 2. **Philosophical Code Analyzer** (Philosophy + AI + Coding): Analyze coding decisions through ethical frameworks
 3. **Cross-Subject Knowledge Graph** (All subjects): Connect learnings across disciplines
 4. **Personal Learning OS** (All subjects): Comprehensive system for managing your education
+5. **Comprehensive Security Platform** (Ethical Hacking + Psychology + Philosophy): Security education with ethical frameworks
+6. **Cognitive Load Optimizer** (Psychology + AI + UX): Intelligent interface design based on cognitive science
+7. **Formal Verification Suite** (Logic + Programming + AI): Automated program correctness verification
 
 ## 💡 Core Learning Principles
 
