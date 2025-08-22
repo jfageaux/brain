@@ -72,24 +72,22 @@ class FileInfo:
 
 
 def human_readable_size(num_bytes: int) -> str:
-    """Convert raw bytes to a human-friendly string.
+    """Convert raw bytes to megabytes for consistent display.
 
-    We scale using powers of 1024 (KiB, MiB, GiB) which is common in tooling.
-    Example: 1_234_567 bytes -> "1.18 MiB"
+    Always shows megabytes (MB) to make sizes easy to compare.
+    Example: 1_234_567 bytes -> "1.18 MB"
     """
 
-    # Define the units in ascending order; we will iterate until we fit nicely
-    units = ["bytes", "KiB", "MiB", "GiB", "TiB"]
-    size = float(num_bytes)
-    for unit in units:
-        if size < 1024.0 or unit == units[-1]:
-            # Format with two decimals for readability
-            if unit == "bytes":
-                return f"{int(size)} {unit}"
-            return f"{size:.2f} {unit}"
-        size /= 1024.0
-    # Fallback (should never hit due to return inside loop)
-    return f"{num_bytes} bytes"
+    # Convert bytes to megabytes (divide by 1024^2)
+    # Using 1024^2 = 1,048,576 for binary megabytes (MiB)
+    size_mb = num_bytes / (1024 * 1024)
+    
+    # Format with 2 decimal places for readability
+    # Show more precision for very small files
+    if size_mb < 0.01:
+        return f"{size_mb:.4f} MB"
+    else:
+        return f"{size_mb:.2f} MB"
 
 
 def default_excluded_dirs() -> Set[str]:
