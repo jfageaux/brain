@@ -140,6 +140,19 @@ Each subject follows a consistent structure:
 
 ---
 
+### ⚓ [Maritime Operations (Port & Agency)](maritime_operations/README.md)
+**Focus**: Port/vessel operations, boarding/customs liaison, pre-stow coordination, invoicing workflows
+
+**Key Learning Outcomes**:
+- Document and improve SOPs for Outlook-driven comms and COSCO invoicing
+- Build small automation tools for parsing emails and validating invoices
+- Create checklists/templates to reduce cognitive load and errors
+- Establish auditable workflows with clear version history
+
+**Integration Opportunities**: Python (automation, parsers), AI (summaries, anomaly detection), Git (SOP versioning), Philosophy (ethics/compliance decisions), Psychology (workflow design)
+
+---
+
 ## 🔄 Cross-Subject Integration Patterns
 
 ### 🌟 High-Impact Combinations

@@ -71,6 +71,7 @@ This roadmap provides a structured, yet flexible path through your personal lear
   - AI: Simple rule-based decision system
   - Python: Personal file organizer with learning insights
   - Python: Codebase Size CLI to measure repository disk usage and largest files
+  - Maritime Ops: Outlook triage + invoice validator (read-only)
 
 #### Week 1 Success Criteria
 - [ ] Git repository initialized with meaningful commit history
@@ -144,6 +145,7 @@ This roadmap provides a structured, yet flexible path through your personal lear
 9. **Psychology + AI**: Understanding human behavior for better AI design
 10. **Ethical Hacking + Philosophy**: Applied ethics in cybersecurity and responsible disclosure
 11. **Logic + AI**: Formal reasoning systems and automated theorem proving
+12. **Python + AI + Maritime**: Outlook parsing, anomaly detection in invoices, templated checklists
 
 #### Week 3 Project Options (Choose 1)
 1. **Multilingual Flashcard System** (Python + Chinese + AI)
@@ -175,6 +177,11 @@ This roadmap provides a structured, yet flexible path through your personal lear
    - Training tool for recognizing social engineering attacks
    - Apply psychological research on decision-making and biases
    - Ethical framework for responsible security education
+
+7. **Maritime Ops Assistant** (Python + AI + Maritime)
+   - Parse exported Outlook emails to extract vessel/voyage/ETA
+   - Generate pre-stow checklists and standard email templates
+   - Validate invoice CSV/Excel and produce QA reports
 
 #### Week 3 Success Criteria
 - [ ] Successfully integrated 2 subjects in meaningful project

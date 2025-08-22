@@ -19,6 +19,7 @@ brain/
     ├── ethical_hacking/      # Cybersecurity & ethical hacking
     ├── psychology/           # Human behavior & cognitive science
     ├── logic/                # Formal reasoning & mathematical logic
+    ├── maritime_operations/  # Port ops & agency workflows (Outlook + invoicing)
     └── projects/             # Cross-disciplinary integration projects
 ```
 

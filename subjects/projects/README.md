@@ -10,6 +10,7 @@ This space is for building projects that naturally combine skills from different
 - **Philosophy Essay Assistant**: AI + Philosophy + Python (helps structure arguments, suggests related concepts)
 - **Chinese Learning Game**: Chinese + Coding + Python (interactive text-based game for language practice)
 - **Learning Analytics Dashboard**: Python + AI + All Subjects (tracks and analyzes your progress across all areas)
+- **Maritime Ops Assistant**: Python + AI + Maritime (Outlook triage + invoice validator)
 
 ## Project Categories
 
